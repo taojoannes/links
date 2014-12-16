@@ -1,4 +1,4 @@
-Links by Tao Joannes
+Links 
 
 This is just a very simple and unsophisticated link management system. 
 
@@ -6,8 +6,8 @@ It works great loaded in a Firefox sidebar.
 
 Features:
 
-	* links are private, only displayed to the user they belong to
-	* click counting to track most used
+* links are private, only displayed to the user they belong to
+* click counting to track most used
 
 Setup:
 
