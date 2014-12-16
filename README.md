@@ -11,7 +11,7 @@ Features:
 
 Setup:
 
-You need a mysql database and user with write access.
+You need a mysql database and user with write access, populate the database with the tables in create.db. 
 
 Edit apps.py, change the mdb.connect statement to reflect your database and user.
 
