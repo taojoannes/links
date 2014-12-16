@@ -1,0 +1,4 @@
+AuthUserFile /home/yetiwerks/auth/passwd
+AuthType Basic
+AuthName "Links"
+Require valid-user
