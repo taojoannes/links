@@ -136,10 +136,10 @@ AND s_id = %s
 		</div>
 		</a>
 		<div class="edit_item" onClick="javascript:location.href='/?f=dl&li=%s'">
-		<img src="/images/icons/essential-ui/png/cross106.png" width=25px height=25px>
+		<img src="./images/icons/essential-ui/png/cross106.png" width=25px height=25px>
 		</div>
 		<div class="edit_item" onClick="javascript:location.href='/?f=el&li=%s'">
-		<img src="/images/icons/essential-ui/png/settings60.png" width=25px height=25px>
+		<img src="./images/icons/essential-ui/png/settings60.png" width=25px height=25px>
 		</div>
 	</div>
 		''' % (content, id, hits, link, name, id, id)

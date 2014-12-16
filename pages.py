@@ -18,7 +18,7 @@ def head(title):
   <script>
   $(function() {
     $( "#accordion" ).accordion({
-      event: "click mouseover",
+      event: "click hoverintent",
 	heightStyle: "auto",
 	animate: 100,
       });
