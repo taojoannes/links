@@ -8,13 +8,13 @@ def head(title):
 <html>
 <head>
 <title>%s</title>
-<link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/images/icons/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="./images/icons/favicon.ico" type="image/x-icon">
+<link rel="icon" href="./images/icons/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
-  <link rel="stylesheet" href="/resources/demos/style.css">
-  <link rel="stylesheet" href="/css/override.css">
+  <link rel="stylesheet" href="./resources/demos/style.css">
+  <link rel="stylesheet" href="./css/override.css">
   <script>
   $(function() {
     $( "#accordion" ).accordion({
