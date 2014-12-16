@@ -1,0 +1,52 @@
+#container {
+	width: 250px;
+	margin: auto;
+}
+.ui-accordion .ui-accordion-content {
+	padding:0px;
+	overflow:hidden;
+}
+.ui-accordion .ui-accordion-header {
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+.menu_row {
+	clear: both;
+	margin:0px;
+	padding:0px;
+	background:#eee;
+	width: 100%;
+	position: relative;
+}
+
+.menu_row:hover {
+	background:#999;
+}
+
+.menu_item {
+	padding-left:3px;
+	margin:0px;
+	border:1px solid #444;
+	width:190px;
+	position: absolute;
+	cursor: pointer;
+	background:#eee;
+	height:27px;
+}
+.menu_item:hover {
+	background:#aaa;
+}
+
+.edit_item {
+	float:right;
+	cursor: pointer;
+	background:#eee;
+	border:1px solid #444;
+	margin:0px;
+	height:27px;
+} 
+
+.edit_item:hover {
+	background:#aaa;
+}
